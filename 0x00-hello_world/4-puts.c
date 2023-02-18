@@ -2,7 +2,6 @@
 
 
 /**
-*Using put for printing
 *main = prints to screen
 *
 *And return 0
