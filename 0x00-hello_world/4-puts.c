@@ -3,7 +3,9 @@
 
 /**
 *Using put for printing
-*And the program ends with 0
+*
+*
+*And return 0
 */
 
 
