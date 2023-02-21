@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- *print_alphabet_x10 - print alphabet 10 times, in lowercase.
+ *p_alphabet_x10 - print alphabet 10 times, in lowercase.
 */
 
-void print_alphabet_x10(void)
+void p_alphabet_x10(void)
 {
 	int coun = 0;
 	char alpha;
