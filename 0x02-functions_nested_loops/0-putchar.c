@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * main -prints the string "_putchar" from array character
+ * main - prints the string "_putchar"
  *
- * return: 0 on success
+ * return: Always success (0)
  *
  */
 
