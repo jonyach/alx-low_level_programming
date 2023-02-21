@@ -1,25 +1,23 @@
 #include "main.h"
 /**
- *  print_alphabet_x10 - repeats the print_alphabet 10 times.
- * prints a-z and A-Z using putchar
- * return: value 0 (true)
- *
- */
-void print_alphbet_x10(void)
+*print_alphabet_x10 - Begin Here
+*print a-z and A-Z using putchar
+*Return: Value 0 (true)
+**/
+void print_alphabet_x10(void)
+
 {
-	int n;
-	char co;
+	int i;
 
-	co = 0;
-
-	while (co < 10)
+	for (i = 0; i <= 9; i++)
 	{
-		for (n = 'a'; n <= 'z'; n++)
-		{
-			_putchar(n);
-		}
-		co++;
+		char ch = 'a';
 
-		_putchar('\n');
+		while (ch <= 'z')
+		{
+			_putchar(ch);
+			ch++;
+		}
+	_putchar('\n');
 	}
 }
