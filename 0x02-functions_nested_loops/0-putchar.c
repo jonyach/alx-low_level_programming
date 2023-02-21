@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * main - prints the string "_putchar"
+ *  main - prints the string "_putchar"
  *
- * return: Always success (0)
+ *  return: Always success (0)
  *
  */
 
