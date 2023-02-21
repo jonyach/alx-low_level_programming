@@ -1,14 +1,12 @@
-#include <stdio.h>
+#include<stdio.h>
 #include "main.h"
-
 /**
- *  main - prints the string "_putchar"
+ * main -prints the string "_putchar" from array character
  *
- *  return: Always success (0)
+ * return: 0 on success
  *
  */
-
-int main(void)
+ int main (void)
 {
 	char c[] = "_putchar";
 	int i;
