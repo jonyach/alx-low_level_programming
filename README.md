@@ -1,2 +1,1 @@
-Taclikng questions on
-0x0B. C - malloc, free
+Tackling low level programming language (C language)
